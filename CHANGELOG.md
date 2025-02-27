@@ -1,4 +1,14 @@
-## Unreleased
+## v0.2.0 (2025-02-27)
+
+### Feat
+
+- added tqdm progress bar in console and file logs for long runnin background tasks
+- added util to run expensive/long api tasks concurrently in background
+- added api endpoints for getting asset IDs from defect/path locations
+
+### Fix
+
+- automatic build releases to public repo Robotiz3d/arres_view_toolkit_releases
 
 ## v0.1.5 (2025-02-20)
 
