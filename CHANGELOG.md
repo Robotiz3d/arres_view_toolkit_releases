@@ -1,3 +1,24 @@
+## v0.3.0 (2025-03-25)
+
+### Feat
+
+- added feature to toggle bounding box annotations for defects
+- added time to finish concurrent tasks
+- view full job from job info page
+
+### Fix
+
+- replaced duplicated shortcut key for favourating images
+- actually delete job from job list page instead of just printing message
+- improved tqdm progress bar display
+- updated loading cursor logic to be more adaptable for different uses
+- corrects instantiation of empty list if no paths to delete in qa
+
+### Refactor
+
+- easier to manage cache sizes
+- created decorator to handle all functions which change cursor to loading and back
+
 ## v0.2.0 (2025-02-27)
 
 ### Feat
