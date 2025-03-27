@@ -1,3 +1,9 @@
+## v0.4.0 (2025-03-27)
+
+### Feat
+
+- added QA review page and features to restore deleted defects
+
 ## v0.3.0 (2025-03-25)
 
 ### Feat
