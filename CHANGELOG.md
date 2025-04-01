@@ -1,3 +1,9 @@
+## v0.4.3 (2025-04-01)
+
+### Fix
+
+- add loading cursor when toggling defect bounding box annotations
+
 ## v0.4.2 (2025-04-01)
 
 ### Fix
