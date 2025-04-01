@@ -1,3 +1,9 @@
+## v0.4.2 (2025-04-01)
+
+### Fix
+
+- clear all appropriate caches after QA/QA review to reload defects that have been deleted/restored
+
 ## v0.4.1 (2025-03-27)
 
 ### Fix
